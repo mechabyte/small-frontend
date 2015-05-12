@@ -5,6 +5,9 @@
     "type": "git",
     "url": "https://github.com/andreamazz/small-frontend.git"
   },
+  "scripts": {
+    "start": "gulp build"
+  },
   "dependencies": {
     "flux": "^2.0.0",
     "keymirror": "~0.1.0",
